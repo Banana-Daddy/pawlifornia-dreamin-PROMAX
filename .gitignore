@@ -1,0 +1,19 @@
+# Confidential research + client source materials — do not publish
+Business Plan and written assets/
+Old Website/
+Questions for Rhoda-ANSWERED.txt
+Questions for Rhoda.txt
+
+# Internal design system + handoff-only sources
+design-system/
+21st-sources/
+
+# Internal brief + accuracy review (contains insurance/certification flags)
+BRIEF.md
+ACCURACY.md
+
+# Raw client photo library (curated subset lives in img/)
+_source_photos/
+
+# OS clutter
+.DS_Store
